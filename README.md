@@ -1,3 +1,5 @@
+![tsp](./tsp.png)
+
 # 🌟 **Traveling Salesman Problem (TSP) Algorithms** 🌟
 
 This repository is the **CS 566 2024** semester project, exploring various algorithms to solve the **Traveling Salesman Problem (TSP)**. The project implements, compares, and visualizes a diverse set of algorithms ranging from traditional optimization techniques to modern machine learning methods.
