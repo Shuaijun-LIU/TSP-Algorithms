@@ -16,16 +16,16 @@ TSP_Algorithms/
 │
 ├── algorithms/             # Implementations of TSP algorithms
 │   ├── __init__.py         # Package initializer
-│   ├── ant_colony.py       # 🐜 Ant Colony Optimization (ACO)
-│   ├── adv_pso.py          # 🚀 Advanced Particle Swarm Optimization (ADV-PSO)
-│   ├── brute_force.py      # 🛠️ Brute Force Search
-│   ├── dqn.py              # 🤖 Deep Q-Learning (DQN)
-│   ├── dynamic_programming.py  # 🧮 Dynamic Programming (DP)
-│   ├── greedy.py           # 💡 Greedy Algorithm
-│   ├── mst_approximation.py  # 🌲 MST Approximation Algorithm
-│   ├── nearest_neighbor.py # 📍 Nearest Neighbor (NN) Algorithm
-│   ├── pointer_networks.py # 🔗 Pointer Networks (Deep Learning Method)
-│   ├── pso.py              # 🌌 Particle Swarm Optimization (PSO)
+│   ├── ant_colony.py       # Ant Colony Optimization (ACO)
+│   ├── adv_pso.py          # Advanced Particle Swarm Optimization (ADV-PSO)
+│   ├── brute_force.py      # Brute Force Search
+│   ├── dqn.py              # Deep Q-Learning (DQN)
+│   ├── dynamic_programming.py  # Dynamic Programming (DP)
+│   ├── greedy.py           # Greedy Algorithm
+│   ├── mst_approximation.py  # MST Approximation Algorithm
+│   ├── nearest_neighbor.py # Nearest Neighbor (NN) Algorithm
+│   ├── pointer_networks.py # Pointer Networks (Deep Learning Method)
+│   ├── pso.py              # Particle Swarm Optimization (PSO)
 │   ├── simulated_annealing.py  # ❄️ Simulated Annealing (SA)
 │
 ├── data/                   # Input TSP datasets
