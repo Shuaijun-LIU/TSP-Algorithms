@@ -1,0 +1,88 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+*.egg
+*.egg-info/
+dist/
+build/
+*.wheel
+
+# macOS generated files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# macOS system files
+Icon?
+._*
+
+# PyCharm specific
+.idea/
+*.iml
+*.iws
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/dictionaries
+.idea/vcs.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/inspectionProfiles
+.idea/python_venv/
+.idea/*.iml
+.idea/modules.xml
+.idea/vcs.xml
+
+# VS Code specific
+.vscode/
+*.code-workspace
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Logs and temporary files
+*.log
+*.tmp
+*.swp
+*.swo
+*.bak
+*.orig
+*.~lock.*
+
+# Test result files
+htmlcov/
+.tox/
+.nox/
+coverage.*
+*.cover
+.hypothesis/
+.pytest_cache/
+
+# Virtualenv
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Local testing
+.local/
+
+# Cache and backup files
+.cache/
+*.~*
+*.save
+*.orig
+*~
+
+# Other ignored files
+results/
+*.png
